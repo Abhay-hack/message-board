@@ -21,6 +21,5 @@ Built using **React (Vite)** and **Express (Node.js)** — ideal for learning fu
   - Render (for backend)
 
 ---
-
-## 📁 Project Structure
-
+## 🙌 Author
+    Abhay Gupta
