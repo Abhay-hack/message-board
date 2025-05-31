@@ -22,4 +22,4 @@ Built using **React (Vite)** and **Express (Node.js)** — ideal for learning fu
 
 ---
 ## 🙌 Author
-    Abhay Gupta
+  Abhay Gupta
